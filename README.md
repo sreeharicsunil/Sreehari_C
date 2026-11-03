@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>Python Backend Developer · AI/ML (RAG &amp; LLMs) · Automation Testing</b><br>
-  MCA student at College of Engineering Vadakara
+  MCA student at College of Engineering Vadakara<br>
+  <i>I love turning ideas into software that works, and then making it smarter.</i>
 </p>
 
 <p align="center">
@@ -19,11 +20,12 @@
 
 ## About me
 
-- 🐍 Python developer with hands-on experience in FastAPI backends, SQL databases and test automation
-- 🤖 Focused on AI/ML: RAG pipelines, LLMs, embeddings and vector search
-- 🧪 Write Playwright and pytest suites for UI and API testing
+- 🐍 I love Python, and I use it to build FastAPI backends and SQL-driven apps
+- 🤖 I get excited by AI/ML, especially RAG pipelines that make LLM answers grounded in real data
+- 🧪 I enjoy breaking things on purpose: Playwright and pytest suites that catch bugs before users do
+- 🛠️ I learn best by building: my favourite project so far is a full Smart Library platform with its own AI assistant
 - 🎓 MCA (pursuing) · B.Sc. Statistics · IIT Madras Foundation in Data Science &amp; Applications
-- 📫 Open to fresher, associate and internship roles
+- 🚀 Looking for fresher, associate and internship roles where I can build, learn fast and ship
 
 ---
 
@@ -131,16 +133,6 @@ Team project (4 members) that updates daily menu availability and lets customers
 
 ---
 
-## GitHub activity
-
-<!-- These cards come from third-party services and can stop loading. Delete this block if they break. -->
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sree-hari-s&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
-  <img height="150" src="https://streak-stats.demolab.com?user=sree-hari-s&hide_border=true&theme=default" alt="GitHub streak">
-</p>
-
----
-
-<p align="center">
-  <i>Open to opportunities · Let's connect</i>
+  <i>Always up for a good project or a good conversation. Let's connect! 🤝</i>
 </p>
